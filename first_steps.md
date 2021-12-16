@@ -19,6 +19,7 @@ ssh <username>@https://github.com/Krysztau/RaspberryPi_setup.git
 
 to poweroff:
 sudo poweroff
+sudo shutdown -h now
 
 to find out raspberry IP:
 hostname -I
